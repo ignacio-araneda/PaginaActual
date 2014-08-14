@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="hola"
+	indexPageName="galeria.html"
+
+>
+  <image imageURL="images/miss iowa.jpg"
+	thumbURL="thumbs/miss iowa.jpg"
+	linkURL="images/miss iowa.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\christian\Pictures\miss iowa.jpg">
+    <title><![CDATA[miss iowa]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/aaaa.jpg"
+	thumbURL="thumbs/aaaa.jpg"
+	linkURL="images/aaaa.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\christian\Pictures\aaaa.JPG">
+    <title><![CDATA[aaaa]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/clases.jpg"
+	thumbURL="thumbs/clases.jpg"
+	linkURL="images/clases.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\christian\Pictures\clases.JPG">
+    <title><![CDATA[clases]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ajajaj.jpg"
+	thumbURL="thumbs/ajajaj.jpg"
+	linkURL="images/ajajaj.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\christian\Pictures\ajajaj.JPG">
+    <title><![CDATA[ajajaj]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10432490_579149392203028_7877249650018294242_n.jpg"
+	thumbURL="thumbs/10432490_579149392203028_7877249650018294242_n.jpg"
+	linkURL="images/10432490_579149392203028_7877249650018294242_n.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\christian\Pictures\10432490_579149392203028_7877249650018294242_n.jpg">
+    <title><![CDATA[10432490_579149392203028_7877249650018294242_n]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

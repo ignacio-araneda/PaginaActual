@@ -1,0 +1,116 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4052580345"/>
+    <file name="master_a-p_gina-maestra.css" crc="502767697" ref="noticias:index:multimedia:comunicaciones:quienes-somos:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:contacto:tienda"/>
+    <file name="noticias.css" crc="425916933" ref="noticias"/>
+    <file name="index.css" crc="3904366627" ref="index"/>
+    <file name="iefonts_index.css" crc="4090003551" ref="index"/>
+    <file name="multimedia.css" crc="513794775" ref="multimedia"/>
+    <file name="comunicaciones.css" crc="40043318" ref="comunicaciones"/>
+    <file name="iefonts_comunicaciones.css" crc="338530472" ref="comunicaciones"/>
+    <file name="quienes-somos.css" crc="3991820755" ref="quienes-somos"/>
+    <file name="retiro-de-varones.css" crc="4192635662" ref="retiro-de-varones"/>
+    <file name="nuevo-fans-page.css" crc="3775625081" ref="nuevo-fans-page"/>
+    <file name="iefonts_nuevo-fans-page.css" crc="467139858" ref="nuevo-fans-page"/>
+    <file name="nueva-web-2_0.css" crc="3774830911" ref="nueva-web-2.0"/>
+    <file name="iefonts_nueva-web-2_0.css" crc="3842899547" ref="nueva-web-2.0"/>
+    <file name="culto-general.css" crc="221406200" ref="culto-general"/>
+    <file name="iefonts_culto-general.css" crc="28812872" ref="culto-general"/>
+    <file name="grupos-de-vida.css" crc="501130254" ref="grupos-de-vida"/>
+    <file name="iefonts_grupos-de-vida.css" crc="3783591998" ref="grupos-de-vida"/>
+    <file name="contacto.css" crc="513794775" ref="contacto"/>
+    <file name="tienda.css" crc="4256258193" ref="tienda"/>
+    <file name="iefonts_tienda.css" crc="5628055" ref="tienda"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="museutils.js" crc="3865766194" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="pie.js" crc="3827607177" ref="index:noticias:quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="webpro.js" crc="3903299128" ref="quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida"/>
+    <file name="touchswipe.js" crc="4156838003" ref="quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida"/>
+  </folder>
+  <folder name="images">
+    <file name="logomca.png" crc="333655193" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="u452-grad.png" crc="499469732" ref="index"/>
+    <file name="u452-a-sprite.png" crc="453210374" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="u486-a-sprite.png" crc="468942483" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="u2251-a-sprite.png" crc="294303706" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="u495-a-sprite.png" crc="4201597629" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="u769-a-sprite.png" crc="4208870202" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="u2882-a-sprite.png" crc="235802762" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="u500-a-sprite.png" crc="53999692" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="fondocomu.png" crc="3893093763" ref="index"/>
+    <file name="tv.png" crc="458390559" ref="index"/>
+    <file name="radio.png" crc="4003953022" ref="index"/>
+    <file name="u1608-4.png" crc="201143512" ref="index"/>
+    <file name="u1616-4.png" crc="3939736579" ref="index"/>
+    <file name="u1623-4.png" crc="368654695" ref="index"/>
+    <file name="noticia-fanspage.jpg" crc="29618116" ref="index"/>
+    <file name="retiro-varones-noticia.jpg" crc="3894967037" ref="index:noticias"/>
+    <file name="cultos-domingo-noticia.jpg" crc="4044291793" ref="index:noticias"/>
+    <file name="u1665-4.png" crc="108431636" ref="index"/>
+    <file name="u222-grad.png" crc="97964852" ref="index"/>
+    <file name="facebook.png" crc="4013181585" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="youtube.png" crc="383772864" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="vimeo.png" crc="83460674" ref="index:contacto:noticias:quienes-somos:multimedia:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida:tienda"/>
+    <file name="grupos-vida-noticia.jpg" crc="4223556354" ref="noticias"/>
+    <file name="loading.gif" crc="3815509949" ref="quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida"/>
+    <file name="blank.gif" crc="4208392903" ref="quienes-somos:comunicaciones:retiro-de-varones:nuevo-fans-page:nueva-web-2.0:culto-general:grupos-de-vida"/>
+    <file name="u1997.png" crc="534740683" ref="quienes-somos"/>
+    <file name="u1997-r.png" crc="452197671" ref="quienes-somos"/>
+    <file name="u1997-a.png" crc="527399118" ref="quienes-somos"/>
+    <file name="u1988.png" crc="4149561885" ref="quienes-somos"/>
+    <file name="u1988-r.png" crc="494560415" ref="quienes-somos"/>
+    <file name="u1988-a.png" crc="3760420650" ref="quienes-somos"/>
+    <file name="u2022.png" crc="242604183" ref="quienes-somos"/>
+    <file name="u2022-r.png" crc="4199052408" ref="quienes-somos"/>
+    <file name="u2022-a.png" crc="4080259023" ref="quienes-somos"/>
+    <file name="u2201.png" crc="110474818" ref="comunicaciones"/>
+    <file name="u2201-r.png" crc="46584421" ref="comunicaciones"/>
+    <file name="u2201-a.png" crc="480985309" ref="comunicaciones"/>
+    <file name="u2205.png" crc="142155116" ref="comunicaciones"/>
+    <file name="u2205-r.png" crc="4107669635" ref="comunicaciones"/>
+    <file name="u2205-a.png" crc="411943032" ref="comunicaciones"/>
+    <file name="u2195.png" crc="297262660" ref="comunicaciones"/>
+    <file name="u2195-r.png" crc="3948519556" ref="comunicaciones"/>
+    <file name="u2195-a.png" crc="3794431909" ref="comunicaciones"/>
+    <file name="u2355.png" crc="521958541" ref="retiro-de-varones"/>
+    <file name="u2355-r.png" crc="4290996386" ref="retiro-de-varones"/>
+    <file name="u2355-a.png" crc="75991864" ref="retiro-de-varones"/>
+    <file name="retiro-varones.jpg" crc="187273920" ref="retiro-de-varones"/>
+    <file name="u2503.png" crc="132223057" ref="nuevo-fans-page"/>
+    <file name="u2503-r.png" crc="388567692" ref="nuevo-fans-page"/>
+    <file name="u2503-a.png" crc="3913272666" ref="nuevo-fans-page"/>
+    <file name="u2590.png" crc="3871181737" ref="nueva-web-2.0"/>
+    <file name="u2590-r.png" crc="4016793450" ref="nueva-web-2.0"/>
+    <file name="u2590-a.png" crc="268853532" ref="nueva-web-2.0"/>
+    <file name="u2705.png" crc="352706190" ref="culto-general"/>
+    <file name="u2705-r.png" crc="4026567581" ref="culto-general"/>
+    <file name="u2705-a.png" crc="4075554578" ref="culto-general"/>
+    <file name="cultos-domingo.jpg" crc="357343187" ref="culto-general"/>
+    <file name="u2756.png" crc="113527734" ref="grupos-de-vida"/>
+    <file name="u2756-r.png" crc="366880395" ref="grupos-de-vida"/>
+    <file name="u2756-a.png" crc="337283722" ref="grupos-de-vida"/>
+    <file name="grupos-vida.jpg" crc="3946581507" ref="grupos-de-vida"/>
+    <file name="paternidad-espiritual.jpg" crc="3859840448" ref="tienda"/>
+    <file name="edificandolacasa.jpg" crc="4073948203" ref="tienda"/>
+    <file name="libroslanuesvareforma.jpg" crc="490388106" ref="tienda"/>
+  </folder>
+  <file name="index.html" crc="3774930890" mt="1399950703030" redirect="true"/>
+  <file name="contacto.html" crc="4135247674" mt="1399950703033" redirect="true"/>
+  <file name="noticias.html" crc="43770442" mt="1399950955352" redirect="true"/>
+  <file name="quienes-somos.html" crc="4257012437" mt="1399950703038" redirect="true"/>
+  <file name="multimedia.html" crc="52349268" mt="1399950703040" redirect="true"/>
+  <file name="comunicaciones.html" crc="413262519" mt="1399950703042" redirect="true"/>
+  <file name="retiro-de-varones.html" crc="3980141261" mt="1399950703045" redirect="true"/>
+  <file name="nuevo-fans-page.html" crc="3862472782" mt="1399950703047" redirect="true"/>
+  <file name="nueva-web-2.0.html" crc="4109349163" mt="1399950703049" redirect="true"/>
+  <file name="culto-general.html" crc="4183673708" mt="1399950703052" redirect="true"/>
+  <file name="grupos-de-vida.html" crc="212335972" mt="1399950703054" redirect="true"/>
+  <file name="tienda.html" crc="4224869224" mt="1399950703056" redirect="true"/>
+</manifest>
