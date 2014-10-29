@@ -906,3 +906,11 @@ h3 {
 	font-family: 'Open Sans', sans-serif;
 	text-align: left;
 }
+
+.izq {
+	text-align: left;
+}
+
+.bold {
+	font-weight: bold;
+}
