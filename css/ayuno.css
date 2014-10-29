@@ -914,3 +914,7 @@ h3 {
 .bold {
 	font-weight: bold;
 }
+
+.sub{
+	text-decoration: underline;
+}
